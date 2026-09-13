@@ -1,0 +1,14 @@
+# Natural Language -> SQL Requirements
+pydantic>=2.0.0
+sqlparse>=0.4.4
+python-dotenv>=1.0.0
+tabulate>=0.9.0
+
+# Optional Cloud LLM Providers
+anthropic>=0.18.0
+openai>=1.0.0
+
+# Development & Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-timeout>=2.1.0
